@@ -59,13 +59,13 @@ Notes
 Only .txt files are processed
 Filenames should include author and year (e.g., Shakespeare_1600.txt)
 Results are printed in the terminal (can be extended to save to file)
-🚀 Future Improvements
+Future Improvements
 Export results to CSV/Excel
 Visualize frequency trends
 Support for larger corpora
 GUI interface
 👤 Vahid Asadidehziri
 
-📄 License
+ License
 
 This project is open-source and available for academic and research purposes.
