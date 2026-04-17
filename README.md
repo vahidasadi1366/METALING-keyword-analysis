@@ -7,6 +7,9 @@ Overview
 
 The script scans .txt files in a given directory and detects predefined spelling variations (including historical or non-standard forms) of selected target words. It then counts their frequency in each file and outputs the results.
 
+
+
+
 This is particularly useful for:
 
 Linguistic analysis
