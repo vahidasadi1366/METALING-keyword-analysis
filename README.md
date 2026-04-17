@@ -49,7 +49,7 @@ python script.py
 Requirements
 Python 3.x
 No external libraries required (uses built-in modules only)
-🔍 Example Use Case
+Example Use Case
 
 This tool can be used to track diachronic changes in spelling, such as:
 
@@ -64,7 +64,7 @@ Export results to CSV/Excel
 Visualize frequency trends
 Support for larger corpora
 GUI interface
-👤 Vahid Asadidehziri
+Vahid Asadidehziri
 
  License
 
