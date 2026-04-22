@@ -5,7 +5,7 @@ This project is a Python-based tool designed to identify and count spelling vari
 
 Overview
 
-The script scans .txt files in a given directory and detects predefined spelling variations (including historical or non-standard forms) of selected target words. It then counts their frequency in each file and outputs the results.
+The script scans .txt files in a given directory and detects predefined spelling variations of selected target words. It then counts their frequency in each file and outputs the results.
 
 
 
