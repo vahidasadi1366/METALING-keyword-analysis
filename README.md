@@ -29,6 +29,7 @@ Generates frequency counts per file;
 Case-insensitive text processing.
 
 Project Structure
+
 project/
 │
 ├── script.py
@@ -36,23 +37,38 @@ project/
 │   ├── author1_1600.txt
 │   ├── author2_1700.txt
 │   └── ...
- How It Works
+
+How It Works
+
 Define target words and their spelling variations:
 target_words_variations = {
     'does': ['doth', 'does', 'dos', 'doeth'],
     'syllable': ['syllable', 'Sillable'],
     ...
 }
+
 The script:
+
 Reads all .txt files in the directory
+
 Converts text to lowercase
+
 Tokenizes words using regex
+
 Counts occurrences of each variation
+
 Outputs results per file:
-Author/Year: author1_1600
+
+Author/Year: 
+
+author1_1600
+
 doth: 12
+
 does: 5
+
 Usage
+
 Set the directory path:
 directory = '/path/to/your/text/files'
 Run the script:
