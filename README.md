@@ -1,7 +1,7 @@
 # METALING-keyword-analysis
 Spelling Variation Analyzer
 
-This project is a Python-based tool designed to identify and count spelling variants of target words across multiple text files. It was employed to analyse MetaLing Corpus. 
+This project is a Python-based tool designed to identify and count spelling variants of target words across multiple text files. It was employed to analyse MetaLing Corpus (https://github.com/MetalingProject). 
 
 Overview
 
