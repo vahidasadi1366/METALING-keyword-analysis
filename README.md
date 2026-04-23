@@ -10,21 +10,25 @@ The script scans .txt files in a given directory and detects predefined spelling
 
 This is particularly useful for:
 
-Linguistic analysis 
+Linguistic analysis;
 
-Historical text studies,
+Historical text studies;
 
-Corpus-based research 
+Corpus-based research.
 
-Features,
+Features:
 
-Detects multiple spelling variants for each target word,
+Detects multiple spelling variants for each target word;
 
-Processes multiple .txt files automatically,
-Extracts author and year from filenames,
-Outputs frequency counts per file,
-Case-insensitive text processing,
- Project Structure
+Processes multiple .txt files automatically;
+
+Extracts author and year from filenames;
+
+Generates frequency counts per file;
+
+Case-insensitive text processing.
+
+Project Structure
 project/
 │
 ├── script.py
