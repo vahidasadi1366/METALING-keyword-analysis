@@ -8,14 +8,18 @@ Overview
 The script scans .txt files in a given directory and detects predefined spelling variants of selected target words. It then counts their frequency in each file.
 
 
-
-
 This is particularly useful for:
 
-Linguistic analysis </l>
+Linguistic analysis 
+
 Historical text studies,
-Corpus-based research Features,
-Detects multiple spelling variations for each target word,
+
+Corpus-based research 
+
+Features,
+
+Detects multiple spelling variants for each target word,
+
 Processes multiple .txt files automatically,
 Extracts author and year from filenames,
 Outputs frequency counts per file,
